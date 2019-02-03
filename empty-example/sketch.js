@@ -4,6 +4,6 @@ function setup() {
 
 function draw() {
   // put drawing code here
-  ellipse(56, 46, 55, 55);
+  ellipse(56, 42, 55, 55);
   console.log("I AM MAK AN ELLIPSE");
 }
